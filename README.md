@@ -6,7 +6,8 @@ Last updated: July 04, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. 
+We use Your data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. 
+Any collected data for research purposes only and doesn't include any sensitive/personal data only the anonymized journals will be collected for further analysis.
 # Interpretation and Definitions
 
 ## Interpretation
@@ -23,7 +24,6 @@ For the purposes of this Privacy Policy:
 - __Application__ means the software program provided by the Company downloaded by You on any electronic device, named Diary
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Diary.
 
 
 
@@ -84,18 +84,13 @@ We may also collect information that Your browser sends whenever You visit our S
 
 ## Use of Your Personal Data
 
-The Company may use Personal Data for the following purposes:
+The researcher may use Personal Data for the following purposes:
 
 - __To provide and maintain our Service__, including to monitor the usage of our Service.
 - __To manage Your Account:__ to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-- __To provide You__ with cognetive distortion classification .
+- __To provide You__ with cognitive distortion classification .
 - __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage trends, to evaluate and improve our Service and your experience. 
 
-We may share Your personal information in the following situations:
-
-- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service.
-
-- __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
 
 ## Retention of Your Personal Data
 
@@ -106,17 +101,14 @@ The app will also retain Usage Data for internal analysis purposes. Usage Data i
 
 ## Disclosure of Your Personal Data
 
-### Business Transactions
-
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 ### Law enforcement
 
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, the researcher may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ### Other legal requirements
 
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
+The researcher may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
 - Comply with a legal obligation
 - Protect and defend the rights or property of the app
@@ -129,28 +121,6 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 
 
 
-
-
-
-
-
-
-# Children's Privacy
-
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
-
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
-
-
-
-
-
-
-# Links to Other Websites
-
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
 # Changes to this Privacy Policy
 
