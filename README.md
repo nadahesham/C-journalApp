@@ -1,13 +1,15 @@
 # C-journalApp
 Welcome to C-journal app
+
 # Privacy Policy
 
 Last updated: July 04, 2022
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use the service and tells you about your privacy rights and how the law protects you.
 
-We use Your data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. 
+We use your data to provide and improve the service. By using the service, you agree to the collection and use of information in accordance with this privacy policy. 
 Any collected data for research purposes only and doesn't include any sensitive/personal data only the anonymized journals will be collected for further analysis.
+
 # Interpretation and Definitions
 
 ## Interpretation
